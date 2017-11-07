@@ -6,7 +6,9 @@
 * Tiago Fernandes, 20171021201
 
 Project link: https://github.com/tfmiranda/data-science-class/tree/master/choropleth-map-project
+
 Youtube link, part 1: https://www.youtube.com/watch?v=sZr13jO46MY
+
 Youtube link, part 2: https://www.youtube.com/watch?v=w8aromvCWTc
 
 ### Objectives:
